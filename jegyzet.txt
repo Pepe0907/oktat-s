@@ -1,0 +1,18 @@
+1.ctrl s    mentés
+2. commit   változtatás mentése
+3. push változtatás feltöltése
+
+
+// után nem veszi figyelembe amit irsz 
+
+két soros komment
+
+/* ez 
+nem
+jo
+*/
+
+; utasítás lezárása
+
+'közé kell irni' Shift 1
+
